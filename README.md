@@ -1,4 +1,4 @@
-# EKF_cm
+# EKF_Cman
 # Submission for Term2 Project 1: Extended Kalman Filters
 
 >Environment setup, algorithm docu and boilerplate code provided by Udacity 
